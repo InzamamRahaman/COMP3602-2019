@@ -6,12 +6,18 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 
 ## Required Reading (and Viewing)
 [Video on Comptational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - youtube video
+
 [Video on Godel's Incompleteness Theorem](https://www.youtube.com/watch?v=O4ndIDcDSGc)
+
 [Video on Finite-State Machines in Vending Machines](https://www.youtube.com/watch?v=vhiiia1_hC4)
 
 ## Lectures
 
 ## Tutorials
+
+
+# Extra Problem Sets
+[Extra PS1](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/Extra%20Problem%20Sets/PS1.pdf)
 
 
 
