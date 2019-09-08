@@ -7,3 +7,7 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 ## Lectures
 
 ## Tutorials
+
+## Reading Material
+[Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof2/)
+[Open Maths Textbooks](https://aimath.org/textbooks/approved-textbooks/)
