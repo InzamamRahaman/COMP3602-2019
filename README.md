@@ -14,6 +14,7 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 ## Lectures
 
 ## Tutorials
+[Tutorial #1](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/Tutorials/Problems/COMP3602_Tutorial_1.pdf)
 
 
 # Extra Problem Sets
