@@ -13,6 +13,8 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 
 [Where Did GREP Come From? - Great video on a common usage of Regular Expressions](https://www.youtube.com/watch?v=NTfOnGZUZDk)
 
+[Basics of Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs)
+
 ## Lectures
 
 ## Tutorials
