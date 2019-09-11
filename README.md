@@ -11,6 +11,8 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 
 [Video on Finite-State Machines in Vending Machines](https://www.youtube.com/watch?v=vhiiia1_hC4)
 
+[Where Did GREP Come From? - Great video on a common usage of Regular Expressions](https://www.youtube.com/watch?v=NTfOnGZUZDk)
+
 ## Lectures
 
 ## Tutorials
