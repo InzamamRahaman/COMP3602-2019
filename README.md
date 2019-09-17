@@ -14,7 +14,9 @@ CW Exam #2 - 14th November 2019
 ### Assignment Due Dates
 
 A1 - 24th October 2019
+
 A2 - 7th November 2019
+
 A3 - 28th November 2019
 
 ## Required Reading (and Viewing)
