@@ -5,9 +5,17 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 [Slack sign-up](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB5eN4Pc5tex_BJ1tH0z4QzdamOSy26MO2A/viewform)
 
 
+### Course Work Exam Dates
+
 CW Exam #1 - 17th October 2019
 
 CW Exam #2 - 14th November 2019
+
+### Assignment Due Dates
+
+A1 - 24th October 2019
+A2 - 7th November 2019
+A3 - 28th November 2019
 
 ## Required Reading (and Viewing)
 [Video on Comptational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - youtube video
