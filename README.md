@@ -25,8 +25,13 @@ Introduction to the Theory of Computation - Michael Sipser - Third Edition
 Formal Language: A Practical Introduction - Adam Webber
 
 
-### Supplementary Slides (pulled from various other sources)
-
+### Supplementary Slides (pulled from various other sources such as Stanfords CS103)
+[DFAs and Regular Languages] (https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/FA1.pdf)
+[NFAs and Closure Proof Sketches](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/FA1.pdf)
+[Regular Expressions](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/RE.pdf)
+[Non-Regular Languages](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/NRLang.pdf)
+[Context-Free Grammars](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/CFGs.pdf)
+[Turing Machines](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/TMs.pdf)
 
 
 ### Course Work Exam Dates
