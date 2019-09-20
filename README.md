@@ -5,6 +5,30 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 [Slack sign-up](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB5eN4Pc5tex_BJ1tH0z4QzdamOSy26MO2A/viewform)
 
 
+### Syllabus
+
+1. Review of Sets, Proofs
+2. Intro to the concept of a language
+3. Deterministic Finite Automata and Regular Languages
+4. Closure properties of operators on Regular Languages
+5. Nondeterministic Finite Automata
+6. Pumping Lemma for Regular Languages
+7. Chompsky Hierarchy and Non-Regular Languages
+8. Context Free Langauges and Context Free Grammars
+9. Pushdown Automata
+10. Pumping Lemma for Context-Free Languages
+11. Turing Machines
+
+### Course Textbooks
+
+Introduction to the Theory of Computation - Michael Sipser - Third Edition
+Formal Language: A Practical Introduction - Adam Webber
+
+
+### Supplementary Slides (pulled from various other sources)
+
+
+
 ### Course Work Exam Dates
 
 CW Exam #1 - 17th October 2019
