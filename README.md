@@ -28,11 +28,16 @@ Formal Language: A Practical Introduction - Adam Webber
 
 ### Supplementary Slides (pulled from various other sources such as Stanfords CS103)
 
-1.[DFAs and Regular Languages] (https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/FA1.pdf)
+1.[DFAs and Regular Languages](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/FA1.pdf)
+
 2.[NFAs and Closure Proof Sketches](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/FA1.pdf)
+
 3.[Regular Expressions](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/RE.pdf)
+
 4.[Non-Regular Languages](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/NRLang.pdf)
+
 5.[Context-Free Grammars](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/CFGs.pdf)
+
 6.[Turing Machines](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/TMs.pdf)
 
 
