@@ -43,7 +43,9 @@ Formal Language: A Practical Introduction - Adam Webber
 
 ### Course Mark Breakdown
 3 Assignments @ 10% each
+
 2 CW Exams @ 10% each
+
 1 Final Exam @ 50%
 
 
