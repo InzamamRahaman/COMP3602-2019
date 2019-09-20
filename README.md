@@ -5,6 +5,9 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 [Slack sign-up](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB5eN4Pc5tex_BJ1tH0z4QzdamOSy26MO2A/viewform)
 
 
+## Assignments 
+[Assignment 1](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/assignments/COMP3602_Assignment_1.pdf)
+
 ### Syllabus
 
 1. Review of Sets, Proofs
