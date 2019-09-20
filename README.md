@@ -22,6 +22,7 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 ### Course Textbooks
 
 Introduction to the Theory of Computation - Michael Sipser - Third Edition
+
 Formal Language: A Practical Introduction - Adam Webber
 
 
