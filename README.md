@@ -41,6 +41,12 @@ Formal Language: A Practical Introduction - Adam Webber
 6.[Turing Machines](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/TMs.pdf)
 
 
+### Course Mark Breakdown
+3 Assignments @ 10% each
+2 CW Exams @ 10% each
+1 Final Exam @ 50%
+
+
 ### Course Work Exam Dates
 
 CW Exam #1 - 17th October 2019
