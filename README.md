@@ -6,7 +6,7 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 
 
 ## Assignments 
-[Assignment 1](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/assignments/COMP3602_Assignment_1.pdf)
+[Assignment 1](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/assignments/COMP3602_Assignment_1.pdf) [Due: 24th October 2019]
 
 ### Syllabus
 
