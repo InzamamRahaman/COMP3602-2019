@@ -37,11 +37,15 @@ Formal Language: A Practical Introduction - Adam Webber
 
 3.[Regular Expressions](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/RE.pdf)
 
-4.[Non-Regular Languages](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/NRLang.pdf)
+4. [Pumping Lemma](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/Regular_Pumping.ppt)
+   
+   [Pumping Lemma #2](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/lec06%20copy.pdf)
 
-5.[Context-Free Grammars](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/CFGs.pdf)
+5.[Non-Regular Languages](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/NRLang.pdf)
 
-6.[Turing Machines](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/TMs.pdf)
+6.[Context-Free Grammars](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/CFGs.pdf)
+
+7.[Turing Machines](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/lectures/TMs.pdf)
 
 
 ### Course Mark Breakdown
