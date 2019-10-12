@@ -90,6 +90,10 @@ A3 - 28th November 2019
 
 [Tutorial #3](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/Tutorials/Problems/COMP3602_Tutorial_3.pdf)
 
+[Tutorial #4](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/Tutorials/Problems/COMP3602_Tutorial_4.pdf)
+
+[Tutorial #5](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/Tutorials/Problems/PLforRL.pdf)
+
 
 # Extra Problem Sets
 [Extra PS1](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/Extra%20Problem%20Sets/PS1.pdf)
