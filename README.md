@@ -12,6 +12,8 @@ Please sign up on the Slack channel by submitting your email address. I will mas
 
 [Assignment 3](https://github.com/InzamamRahaman/COMP3602-2019/blob/master/assignments/COMP3602_Assignment_3.pdf) [Due: 28th November 2019]
 
+[Helper Code for A3](https://github.com/InzamamRahaman/LOLCODE)
+
 ### Syllabus
 
 1. Review of Sets, Proofs
